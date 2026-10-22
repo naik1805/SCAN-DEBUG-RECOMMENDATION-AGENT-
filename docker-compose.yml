@@ -1,0 +1,41 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${API_PORT:-8005}:8005"
+    env_file:
+      - .env
+    environment:
+      APP_ENV: production
+      API_HOST: 0.0.0.0
+      REQUIRE_API_KEY: "true"
+      LOG_JSON: "true"
+      STARTUP_WARM_CACHES: "true"
+    volumes:
+      - ./scan debug data:/app/scan debug data:ro
+      - ./model_weights.pth:/app/model_weights.pth
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8005/ready')"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "${UI_PORT:-3001}:3001"
+    env_file:
+      - frontend/.env.local
+    environment:
+      NEXT_PUBLIC_API_MODE: live
+      NEXT_PUBLIC_API_BASE_URL: http://api:8005
+      API_PROXY_TARGET: http://api:8005
+      API_KEY: ${API_KEY}
+    depends_on:
+      api:
+        condition: service_healthy

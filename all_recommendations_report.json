@@ -1,0 +1,452 @@
+[
+  {
+    "lot_id": "LOT_1",
+    "die_label": "fail_die_1",
+    "defect_type": "CENTER",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_1",
+    "die_label": "fail_die_2",
+    "defect_type": "CENTER",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_1",
+    "die_label": "fail_die_3",
+    "defect_type": "CENTER",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_1",
+    "die_label": "fail_die_4",
+    "defect_type": "CENTER",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_1",
+    "die_label": "fail_die_5",
+    "defect_type": "CENTER",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_3",
+    "die_label": "fail_die_1",
+    "defect_type": "EDGE_LOC",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_3",
+    "die_label": "fail_die_2",
+    "defect_type": "EDGE_LOC",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_3",
+    "die_label": "fail_die_3",
+    "defect_type": "EDGE_LOC",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_3",
+    "die_label": "fail_die_4",
+    "defect_type": "EDGE_LOC",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_3",
+    "die_label": "fail_die_5",
+    "defect_type": "EDGE_LOC",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_5",
+    "die_label": "fail_die_1",
+    "defect_type": "LOCAL",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_5",
+    "die_label": "fail_die_2",
+    "defect_type": "LOCAL",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_5",
+    "die_label": "fail_die_3",
+    "defect_type": "LOCAL",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_5",
+    "die_label": "fail_die_4",
+    "defect_type": "LOCAL",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_5",
+    "die_label": "fail_die_5",
+    "defect_type": "LOCAL",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_6",
+    "die_label": "fail_die_1",
+    "defect_type": "NEAR_FULL",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_6",
+    "die_label": "fail_die_2",
+    "defect_type": "NEAR_FULL",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_6",
+    "die_label": "fail_die_3",
+    "defect_type": "NEAR_FULL",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_6",
+    "die_label": "fail_die_4",
+    "defect_type": "NEAR_FULL",
+    "slack": 9999.0,
+    "recommended": "POWER_RELATED_DEBUG",
+    "confidence": 1.0,
+    "expected": "POWER_RELATED_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_6",
+    "die_label": "fail_die_5",
+    "defect_type": "NEAR_FULL",
+    "slack": -47.0,
+    "recommended": "TIMING_DEBUG",
+    "confidence": 1.0,
+    "expected": "TIMING_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_7",
+    "die_label": "fail_die_1",
+    "defect_type": "NORMAL",
+    "slack": 9999.0,
+    "recommended": "ATPG_CONSTRAINT_REVIEW",
+    "confidence": 1.0,
+    "expected": "ATPG_CONSTRAINT_REVIEW",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_7",
+    "die_label": "fail_die_2",
+    "defect_type": "NORMAL",
+    "slack": 9999.0,
+    "recommended": "ATPG_CONSTRAINT_REVIEW",
+    "confidence": 1.0,
+    "expected": "ATPG_CONSTRAINT_REVIEW",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_7",
+    "die_label": "fail_die_3",
+    "defect_type": "NORMAL",
+    "slack": 9999.0,
+    "recommended": "ATPG_CONSTRAINT_REVIEW",
+    "confidence": 1.0,
+    "expected": "ATPG_CONSTRAINT_REVIEW",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_7",
+    "die_label": "fail_die_4",
+    "defect_type": "NORMAL",
+    "slack": 9999.0,
+    "recommended": "ATPG_CONSTRAINT_REVIEW",
+    "confidence": 1.0,
+    "expected": "ATPG_CONSTRAINT_REVIEW",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_7",
+    "die_label": "fail_die_5",
+    "defect_type": "NORMAL",
+    "slack": 9999.0,
+    "recommended": "ATPG_CONSTRAINT_REVIEW",
+    "confidence": 1.0,
+    "expected": "ATPG_CONSTRAINT_REVIEW",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_8",
+    "die_label": "fail_die_1",
+    "defect_type": "RANDOM",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_8",
+    "die_label": "fail_die_2",
+    "defect_type": "RANDOM",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_8",
+    "die_label": "fail_die_3",
+    "defect_type": "RANDOM",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_8",
+    "die_label": "fail_die_4",
+    "defect_type": "RANDOM",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_8",
+    "die_label": "fail_die_5",
+    "defect_type": "RANDOM",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_2",
+    "die_label": "fail_die_1",
+    "defect_type": "DONUT",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_2",
+    "die_label": "fail_die_2",
+    "defect_type": "DONUT",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_2",
+    "die_label": "fail_die_3",
+    "defect_type": "DONUT",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_2",
+    "die_label": "fail_die_4",
+    "defect_type": "DONUT",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_2",
+    "die_label": "fail_die_5",
+    "defect_type": "DONUT",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_4",
+    "die_label": "fail_die_1",
+    "defect_type": "EDGE_RING",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_4",
+    "die_label": "fail_die_2",
+    "defect_type": "EDGE_RING",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_4",
+    "die_label": "fail_die_3",
+    "defect_type": "EDGE_RING",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_4",
+    "die_label": "fail_die_4",
+    "defect_type": "EDGE_RING",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_4",
+    "die_label": "fail_die_5",
+    "defect_type": "EDGE_RING",
+    "slack": 9999.0,
+    "recommended": "PHYSICAL_DEFECT_INVESTIGATION",
+    "confidence": 1.0,
+    "expected": "PHYSICAL_DEFECT_INVESTIGATION",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_9",
+    "die_label": "fail_die_1",
+    "defect_type": "SCRATCH",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_9",
+    "die_label": "fail_die_2",
+    "defect_type": "SCRATCH",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_9",
+    "die_label": "fail_die_3",
+    "defect_type": "SCRATCH",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_9",
+    "die_label": "fail_die_4",
+    "defect_type": "SCRATCH",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  },
+  {
+    "lot_id": "LOT_9",
+    "die_label": "fail_die_5",
+    "defect_type": "SCRATCH",
+    "slack": 9999.0,
+    "recommended": "SCAN_CHAIN_DEBUG",
+    "confidence": 1.0,
+    "expected": "SCAN_CHAIN_DEBUG",
+    "correct": "YES"
+  }
+]
